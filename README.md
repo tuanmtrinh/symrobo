@@ -1,2 +1,2 @@
 # symdq
-Symbolic-enabled dual quaternion calculation for robotic application
+Symbolic-enabled calculation for robotic application
